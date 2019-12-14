@@ -33,7 +33,7 @@ class Ui_RecuperaWindow(object):
         
         
         
-        #Background
+        #                                                                Background
         self.label_4 = QtWidgets.QLabel(self.centralwidget)
         self.label_4.setGeometry(QtCore.QRect(0, 0, 456, 611))
         self.label_4.setAutoFillBackground(False)
@@ -44,7 +44,7 @@ class Ui_RecuperaWindow(object):
         self.label_4.raise_()
         
         
-        #Trae los demas objetos al frente
+        #                                                             Trae los demas objetos al frente
         self.lineEdit.raise_()
         self.label_5.raise_()
         self.label_3.raise_()

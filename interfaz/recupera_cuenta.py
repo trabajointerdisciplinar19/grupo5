@@ -1,12 +1,6 @@
-# -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'recupera_cuenta.ui'
-#
-# Created by: PyQt5 UI code generator 5.13.2
-#
-# WARNING! All changes made in this file will be lost!
 
-#Una miniguia de lo que es cada objeto esta retranslateUi
+#                                                                          Una miniguia de lo que es cada objeto esta retranslateUi
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMessageBox, QLabel
 

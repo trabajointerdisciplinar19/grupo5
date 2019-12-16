@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiProyecto</string>
+    <string name="txt_dato_String">CLICK</string>
+    <string name="txt_atras">ATRAS</string>
+</resources>

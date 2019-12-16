@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tomarfoto"
+        android:icon="@drawable/camara"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/BuscarAsien"
+        android:icon="@drawable/buscar"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/anterior"
+        android:icon="@android:drawable/ic_media_rew"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/siguiente"
+        android:icon="@android:drawable/ic_media_ff"
+        android:title="Item"
+        app:showAsAction="ifRoom"/>
+</menu>
